@@ -24,7 +24,7 @@ Java script
 Css
 
 Support and contact details
-github.com/phobic-wrld
+github.com/phobic-world
 
 License
 The content of this site is licensed under the MIT license Copyright (c) 2024.
