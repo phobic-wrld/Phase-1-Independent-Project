@@ -6,21 +6,22 @@ By *Grace Joy *
 Description:
 I have created an e-commerce website
 
-Installation
+Installation:
 You use git clone to be able to download the documents in the GitHub
 
-Installation Requirements
+Installation Requirements:
 Git
 
-Installation instruction
+Installation instruction:
 Git clone https://github.com/phobic-wrld/phase-1-independent-project
 Live Link
 [Git](gh-pages link)
 
-Technologies used
-Github Javascript
+Technologies used:
+Github
 Html
 Java script
+Css
 
 Support and contact details
 github.com/phobic-wrld
