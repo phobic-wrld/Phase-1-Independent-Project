@@ -1,8 +1,11 @@
 INDEPENDENT PROJECT
+
 Date, 2024/04/12
 By *Grace Joy *
-Description
-I have created an e-commerse
+
+Description:
+I have created an e-commerce website
+
 Installation
 You use git clone to be able to download the documents in the GitHub
 
